@@ -4,7 +4,7 @@ import math
 screen = Screen()
 screen.title("Heart :)")
 bgcolor("black")
-speed(2000)
+speed(2000000000)
 colors = ["red", "pink"]
 
 
